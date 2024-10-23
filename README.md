@@ -4,6 +4,8 @@
 # ggmulty
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/qddyy/ggmulty/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/qddyy/ggmulty/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of ggmulty is to …
